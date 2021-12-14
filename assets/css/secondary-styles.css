@@ -13,20 +13,17 @@
     font-weight: normal;
     font-size: 42px;
     font-style: italic;
-
-
 }
 
 .secondary-content {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    color: #o24e76;
-
+    color: #024e76;
 }
 
 .secondary-content h3 {
-    font size: 25px;
+    font-size: 25px;
     margin: 20px 0 20px 0;
 
 }
